@@ -1,4 +1,4 @@
 # Bageshri-Portfolio
-## Collection of my work
+## Collection of my Python work
 
 

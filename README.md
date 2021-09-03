@@ -1,4 +1,4 @@
 # Bageshri-Portfolio
-## Collection of my Python work
+## Collection of my Python work for Data science course
 
 
